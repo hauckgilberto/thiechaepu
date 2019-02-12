@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nuosooza.thomashart.me/sitemap.xml
